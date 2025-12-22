@@ -1,0 +1,300 @@
+flight_no;date_utc;launch_site;date_local;time_local;launch_success;landing_success
+286;January 3, 2024 03:44[23];Vandenberg, SLC?4E;02.01.2024;19:44:00;Success;Success 
+287;January 3, 2024 23:04[24];Cape Canaveral, SLC?40;03.01.2024;18:04:00;Success;Success 
+288;January 7, 2024 22:35[28];Cape Canaveral, SLC?40;07.01.2024;17:35:00;Success;Success 
+289;January 14, 2024 08:59[30];Vandenberg, SLC?4E;14.01.2024;0:59:00;Success;Success 
+290;January 15, 2024 01:52[31];Cape Canaveral, SLC?40;14.01.2024;20:52:00;Success;Success 
+291;January 18, 2024 21:49[34];Kennedy, LC?39A;18.01.2024;16:49:00;Success;Success 
+292;January 24, 2024 00:35[38];Vandenberg, SLC?4E;23.01.2024;16:35:00;Success;Success 
+293;January 29, 2024 01:10[39];Kennedy, LC?39A;28.01.2024;20:10:00;Success;Success 
+294;January 29, 2024 05:57[40];Vandenberg, SLC?4E;28.01.2024;21:57:00;Success;Success 
+295;January 30, 2024 17:07[41];Cape Canaveral, SLC?40;30.01.2024;12:07:00;Success;Success 
+296;February 8, 2024 06:33[44];Cape Canaveral, SLC?40;08.02.2024;1:33:00;Success;Success 
+297;February 10, 2024 00:34[46];Vandenberg, SLC?4E;09.02.2024;16:34:00;Success;Success 
+298;February 14, 2024 22:30[47];Cape Canaveral, SLC?40;14.02.2024;17:30:00;Success;Success 
+299;February 15, 2024 06:05[49];Kennedy, LC?39A;15.02.2024;1:05:00;Success;Success 
+300;February 15, 2024 21:34[54];Vandenberg, SLC?4E;15.02.2024;13:34:00;Success;Success 
+301;February 20, 2024 20:11[56];Cape Canaveral, SLC?40;20.02.2024;15:11:00;Success;Success 
+302;February 23, 2024 04:11[58];Vandenberg, SLC?4E;22.02.2024;20:11:00;Success;Success 
+303;February 25, 2024 22:06[60];Cape Canaveral, SLC?40;25.02.2024;17:06:00;Success;Success 
+304;February 29, 2024 15:30[62];Cape Canaveral, SLC?40;29.02.2024;10:30:00;Success;Success 
+305;March 4, 2024 03:53[63];Kennedy, LC?39A;03.03.2024;22:53:00;Success;Success 
+306;March 4, 2024 22:05[65];Vandenberg, SLC?4E;04.03.2024;14:05:00;Success;Success 
+307;March 4, 2024 23:56[68];Cape Canaveral, SLC?40;04.03.2024;18:56:00;Success;Success 
+308;March 10, 2024 23:05[70];Cape Canaveral, SLC?40;10.03.2024;19:05:00;Success;Success 
+309;March 11, 2024 04:09[71];Vandenberg, SLC?4E;10.03.2024;21:09:00;Success;Success 
+310;March 16, 2024 00:21[72];Kennedy, LC?39A;15.03.2024;20:21:00;Success;Success 
+311;March 19, 2024 02:28[73];Vandenberg, SLC?4E;18.03.2024;19:28:00;Success;Success 
+312;March 21, 2024 20:55[76];Cape Canaveral, SLC?40;21.03.2024;16:55:00;Success;Success 
+313;March 24, 2024 03:09[78];Kennedy, LC?39A;23.03.2024;23:09:00;Success;Success 
+314;March 25, 2024 23:42[79];Cape Canaveral, SLC?40;25.03.2024;19:42:00;Success;Success 
+315;March 30, 2024 21:52[81];Kennedy, LC?39A;30.03.2024;17:52:00;Success;Success 
+316;March 31, 2024 01:30[82];Cape Canaveral, SLC?40;30.03.2024;21:30:00;Success;Success 
+317;April 2, 2024 02:30[83];Vandenberg, SLC?4E;01.04.2024;19:30:00;Success;Success 
+318;April 5, 2024 09:12[84];Cape Canaveral, SLC?40;05.04.2024;5:12:00;Success;Success 
+319;April 7, 2024 02:25[85];Vandenberg, SLC?4E;06.04.2024;19:25:00;Success;Success 
+320;April 7, 2024 23:16[86];Kennedy, LC?39A;07.04.2024;19:16:00;Success;Success 
+321;April 10, 2024 05:40[88];Cape Canaveral, SLC?40;10.04.2024;1:40:00;Success;Success 
+322;April 11, 2024 14:25[89];Vandenberg, SLC?4E;11.04.2024;7:25:00;Success;Success 
+323;April 13, 2024 01:40[91];Cape Canaveral, SLC?40;12.04.2024;21:40:00;Success;Success 
+324;April 17, 2024 21:26[92];Kennedy, LC?39A;17.04.2024;17:26:00;Success;Success 
+325;April 18, 2024 22:40[93];Cape Canaveral, SLC?40;18.04.2024;18:40:00;Success;Success 
+326;April 23, 2024 22:17[94];Cape Canaveral, SLC?40;23.04.2024;18:17:00;Success;Success 
+327;April 28, 2024 00:34[96];Kennedy, LC?39A;27.04.2024;20:34:00;Success;No attempt
+328;April 28, 2024 22:08[97];Cape Canaveral, SLC?40;28.04.2024;18:08:00;Success;Success 
+329;May 2, 2024 18:36[98];Vandenberg, SLC?4E;02.05.2024;11:36:00;Success;Success 
+330;May 3, 2024 02:37[100];Cape Canaveral, SLC?40;02.05.2024;22:37:00;Success;Success 
+331;May 6, 2024 18:14[101];Cape Canaveral, SLC?40;06.05.2024;14:14:00;Success;Success 
+332;May 8, 2024 18:42[102];Kennedy, LC?39A;08.05.2024;14:42:00;Success;Success 
+333;May 10, 2024 04:30[103];Vandenberg, SLC?4E;09.05.2024;21:30:00;Success;Success 
+334;May 13, 2024 00:53[104];Cape Canaveral, SLC?40;12.05.2024;20:53:00;Success;Success 
+335;May 14, 2024 18:39[105];Vandenberg, SLC?4E;14.05.2024;11:39:00;Success;Success 
+336;May 18, 2024 00:32[106];Cape Canaveral, SLC?40;17.05.2024;20:32:00;Success;Success 
+337;May 22, 2024 08:00[107];Vandenberg, SLC?4E;22.05.2024;1:00:00;Success;Success 
+338;May 23, 2024 02:35[110];Cape Canaveral, SLC?40;22.05.2024;22:35:00;Success;Success 
+339;May 24, 2024 02:45[111];Kennedy, LC?39A;23.05.2024;22:45:00;Success;Success 
+340;May 28, 2024 14:24[112];Cape Canaveral, SLC?40;28.05.2024;10:24:00;Success;Success 
+341;May 28, 2024 22:20[113];Vandenberg, SLC?4E;28.05.2024;15:20:00;Success;Success 
+342;June 1, 2024 02:37[115];Cape Canaveral, SLC?40;31.05.2024;22:37:00;Success;Success 
+343;June 5, 2024 02:16[117];Cape Canaveral, SLC?40;04.06.2024;22:16:00;Success;Success 
+344;June 8, 2024 01:56[118];Cape Canaveral, SLC?40;07.06.2024;21:56:00;Success;Success 
+345;June 8, 2024 12:58[119];Vandenberg, SLC?4E;08.06.2024;5:58:00;Success;Success 
+346;June 19, 2024 03:40[120];Vandenberg, SLC?4E;18.06.2024;20:40:00;Success;Success 
+347;June 20, 2024 21:35[121];Cape Canaveral, SLC?40;20.06.2024;17:35:00;Success;Success 
+348;June 23, 2024 17:15[122];Cape Canaveral, SLC?40;23.06.2024;13:15:00;Success;Success 
+349;June 24, 2024 03:47[124];Vandenberg, SLC?4E;23.06.2024;20:47:00;Success;Success 
+FH 10;June 25, 2024 21:26[125];Kennedy, LC?39A;25.06.2024;17:26:00;Success;No attempt
+350;June 27, 2024 11:14[128];Cape Canaveral, SLC?40;27.06.2024;7:14:00;Success;Success 
+351;June 29, 2024 03:14[129];Vandenberg, SLC?4E;28.06.2024;20:14:00;Success;Success 
+352;July 3, 2024 08:55[130];Cape Canaveral, SLC?40;03.07.2024;4:55:00;Success;Success 
+353;July 8, 2024 23:30[131];Cape Canaveral, SLC?40;08.07.2024;19:30:00;Success;Success 
+354;July 12, 2024 02:35[133];Vandenberg, SLC?4E;11.07.2024;19:35:00;Failure;Success 
+355;July 27, 2024 05:45[141];Kennedy, LC?39A;27.07.2024;1:45:00;Success;Success 
+356;July 28, 2024 05:09[142];Cape Canaveral, SLC?40;28.07.2024;1:09:00;Success;Success 
+357;July 28, 2024 09:22[142];Vandenberg, SLC?4E;28.07.2024;2:22:00;Success;Success 
+358;August 2, 2024 05:01[143];Kennedy, LC?39A;02.08.2024;1:01:00;Success;Success 
+359;August 4, 2024 07:24[144];Vandenberg, SLC?4E;04.08.2024;0:24:00;Success;Success 
+360;August 4, 2024 15:02[145];Cape Canaveral, SLC?40;04.08.2024;11:02:00;Success;Success 
+361;August 10, 2024 12:50[146];Cape Canaveral, SLC?40;10.08.2024;8:50:00;Success;Success 
+362;August 12, 2024 02:02[147];Vandenberg, SLC?4E;11.08.2024;19:02:00;Success;Success 
+363;August 12, 2024 10:37[153];Kennedy, LC?39A;12.08.2024;6:37:00;Success;Success 
+364;August 15, 2024 13:00[154];Cape Canaveral, SLC?40;15.08.2024;9:00:00;Success;Success 
+365;August 16, 2024 18:56[156];Vandenberg, SLC-4E;16.08.2024;11:56:00;Success;Success 
+366;August 20, 2024 13:20[157];Cape Canaveral, SLC?40;20.08.2024;9:20:00;Success;Success 
+367;August 28, 2024 07:48[158];Cape Canaveral, SLC?40;28.08.2024;3:48:00;Success;Failure 
+368;August 31, 2024 07:43[163];Cape Canaveral, SLC?40;31.08.2024;3:43:00;Success;Success 
+369;August 31, 2024 08:48[164];Vandenberg, SLC-4E;31.08.2024;1:48:00;Success;Success 
+370;September 5, 2024 15:33[165];Cape Canaveral, SLC?40;05.09.2024;11:33:00;Success;Success 
+371;September 6, 2024 03:20[166];Vandenberg, SLC?4E;05.09.2024;20:20:00;Success;Success 
+372;September 10, 2024 09:23[167];Kennedy, LC?39A;10.09.2024;5:23:00;Success;Success 
+373;September 12, 2024 08:52[171];Cape Canaveral, SLC?40;12.09.2024;4:52:00;Success;Success 
+374;September 13, 2024 01:45[173];Vandenberg, SLC-4E;12.09.2024;18:45:00;Success;Success 
+375;September 17, 2024 22:50[174];Cape Canaveral, SLC?40;17.09.2024;18:50:00;Success;Success 
+376;September 20, 2024 13:50[176];Vandenberg, SLC-4E;20.09.2024;6:50:00;Success;Success 
+377;September 25, 2024 04:01[177];Vandenberg, SLC-4E;24.09.2024;21:01:00;Success;Success 
+378;September 28, 2024 17:17[178];Cape Canaveral, SLC?40;28.09.2024;13:17:00;Success;Success 
+379;October 7, 2024 14:52[186];Cape Canaveral, SLC?40;07.10.2024;10:52:00;Success;No attempt
+FH 11;October 14, 2024 16:06[188];Kennedy, LC?39A;14.10.2024;12:06:00;Success;No attempt
+380;October 15, 2024 06:10[195];Cape Canaveral, SLC?40;15.10.2024;2:10:00;Success;Success 
+381;October 15, 2024 08:21[196];Vandenberg, SLC-4E;15.10.2024;1:21:00;Success;Success 
+382;October 18, 2024 23:31[197];Cape Canaveral, SLC?40;18.10.2024;19:31:00;Success;Success 
+383;October 20, 2024 05:13[198];Vandenberg, SLC-4E;19.10.2024;22:13:00;Success;Success 
+384;October 23, 2024 21:47[199];Cape Canaveral, SLC?40;23.10.2024;17:47:00;Success;Success 
+385;October 24, 2024 17:13[200];Vandenberg, SLC-4E;24.10.2024;10:13:00;Success;Success 
+386;October 26, 2024 21:47[201];Cape Canaveral, SLC?40;26.10.2024;17:47:00;Success;Success 
+387;October 30, 2024 12:07[202];Vandenberg, SLC-4E;30.10.2024;5:07:00;Success;Success 
+388;October 30, 2024 21:10[203];Cape Canaveral, SLC?40;30.10.2024;17:10:00;Success;Success 
+389;November 5, 2024 02:29[204];Kennedy, LC?39A;04.11.2024;21:29:00;Success;Success 
+390;November 7, 2024 20:19[207];Cape Canaveral, SLC?40;07.11.2024;15:19:00;Success;Success 
+391;November 9, 2024 06:14[208];Vandenberg, SLC-4E;08.11.2024;22:14:00;Success;Success 
+392;11 November 2024 17:22[209];Kennedy, LC?39A;11.11.2024;12:22:00;Success;Success 
+393;November 11, 2024 21:28[213];Cape Canaveral, SLC?40;11.11.2024;16:28:00;Success;Success 
+394;November 14, 2024 05:23[214];Vandenberg, SLC-4E;13.11.2024;21:23:00;Success;Success 
+395;November 14, 2024 13:21[215];Cape Canaveral, SLC?40;14.11.2024;8:21:00;Success;Success 
+396;November 17, 2024 22:28[216];Kennedy, LC?39A;17.11.2024;17:28:00;Success;Success 
+397;November 18, 2024 05:53[218];Vandenberg, SLC-4E;17.11.2024;21:53:00;Success;Success 
+398;November 18, 2024 18:31[219];Cape Canaveral, SLC?40;18.11.2024;13:31:00;Success;Success 
+399;November 21, 2024 16:07[221];Cape Canaveral, SLC?40;21.11.2024;11:07:00;Success;Success 
+400;November 24, 2024 05:25[222];Vandenberg, SLC-4E;23.11.2024;21:25:00;Success;Success 
+401;November 25, 2024 10:02[223];Cape Canaveral, SLC?40;25.11.2024;5:02:00;Success;Success 
+402;November 27, 2024 04:41[225];Kennedy, LC?39A;26.11.2024;23:41:00;Success;Success 
+403;November 30, 2024 05:00[226];Cape Canaveral, SLC?40;30.11.2024;0:00:00;Success;Success 
+404;November 30, 2024 08:10[227];Vandenberg, SLC-4E;30.11.2024;0:10:00;Success;Success 
+405;December 4, 2024 10:13[229];Cape Canaveral, SLC?40;04.12.2024;5:13:00;Success;Success 
+406;December 5, 2024 03:05[230];Vandenberg, SLC-4E;04.12.2024;19:05:00;Success;Success 
+407;December 5, 2024 16:10[231];Kennedy, LC?39A;05.12.2024;11:10:00;Success;Success 
+408;December 8, 2024 05:12[234];Cape Canaveral, SLC?40;08.12.2024;0:12:00;Success;Success 
+409;December 13, 2024 21:55[235];Vandenberg, SLC-4E;13.12.2024;13:55:00;Success;Success 
+410;December 17, 2024 00:52[236];Cape Canaveral, SLC?40;16.12.2024;19:52:00;Success;Success 
+411;December 17, 2024 13:19[239];Vandenberg, SLC?4E;17.12.2024;5:19:00;Success;Success 
+412;December 17, 2024 22:26[241];Kennedy, LC?39A;17.12.2024;17:26:00;Success;Success 
+413;December 21, 2024 11:34[243];Vandenberg, SLC-4E;21.12.2024;3:34:00;Success;Success 
+414;December 23, 2024 05:35[245];Kennedy, LC?39A;23.12.2024;0:35:00;Success;Success 
+415;December 29, 2024 01:58[246];Vandenberg, SLC-4E;28.12.2024;17:58:00;Success;Success 
+416;December 29, 2024 05:00[247];Cape Canaveral, SLC?40;29.12.2024;0:00:00;Success;Success 
+417;December 31, 2024 05:39[16];Kennedy, LC?39A;31.12.2024;0:39:00;Success;Success 
+418;January 4, 2025 01:27[254];Cape Canaveral, SLC?40;03.01.2025;20:27:00;Success;Success 
+419;January 6, 2025 20:43[257];Cape Canaveral, SLC?40;06.01.2025;15:43:00;Success;Success 
+420;January 8, 2025 15:27[258];Kennedy, LC?39A;08.01.2025;10:27:00;Success;Success 
+421;January 10, 2025 03:53[259];Vandenberg, SLC?4E;09.01.2025;19:53:00;Success;Success 
+422;January 10, 2025 19:11[261];Cape Canaveral, SLC?40;10.01.2025;14:11:00;Success;Success 
+423;January 13, 2025 16:47[262];Cape Canaveral, SLC?40;13.01.2025;11:47:00;Success;Success 
+424;January 14, 2025 19:09[263];Vandenberg, SLC?4E;14.01.2025;11:09:00;Success;Success 
+425;January 15, 2025 06:11[264];Kennedy, LC?39A;15.01.2025;1:11:00;Success;Success 
+426;January 21, 2025 05:24[270];Kennedy, LC?39A;21.01.2025;0:24:00;Success;Success 
+427;January 21, 2025 15:45[272];Vandenberg, SLC?4E;21.01.2025;7:45:00;Success;Success 
+428;January 24, 2025 14:07[273];Vandenberg, SLC?4E;24.01.2025;6:07:00;Success;Success 
+429;January 27, 2025 22:05[274];Cape Canaveral, SLC?40;27.01.2025;17:05:00;Success;Success 
+430;January 30, 2025 01:34[275];Kennedy, LC?39A;29.01.2025;20:34:00;Success;No attempt
+431;February 1, 2025 23:02[278];Vandenberg, SLC-4E;01.02.2025;15:02:00;Success;Success 
+432;February 4, 2025 10:15[282];Cape Canaveral, SLC?40;04.02.2025;5:15:00;Success;Success 
+433;February 4, 2025 23:13[283];Kennedy, LC?39A;04.02.2025;18:13:00;Success;Success 
+434;February 8, 2025 19:18[287];Cape Canaveral, SLC?40;08.02.2025;14:18:00;Success;Success 
+435;February 11, 2025 02:09[288];Vandenberg, SLC-4E;10.02.2025;18:09:00;Success;Success 
+436;February 11, 2025 18:53[289];Cape Canaveral, SLC?40;11.02.2025;13:53:00;Success;Success 
+437;February 15, 2025 06:14;Cape Canaveral, SLC?40;15.02.2025;1:14:00;Success;Success 
+438;February 18, 2025 23:21[290];Cape Canaveral, SLC?40;18.02.2025;18:21:00;Success;Success 
+439;February 21, 2025 15:19;Cape Canaveral, SLC?40;21.02.2025;10:19:00;Success;Success 
+440;February 23, 2025 01:38;Vandenberg, SLC?4E;22.02.2025;17:38:00;Success;Success 
+441;February 27, 2025 00:16[291];Kennedy, LC?39A[292];26.02.2025;19:16:00;Success;Success 
+442;February 27, 2025 03:34;Cape Canaveral, SLC?40;26.02.2025;22:34:00;Success;Success 
+443;March 3, 2025 02:24[298];Cape Canaveral, SLC?40;02.03.2025;21:24:00;Success;Failure 
+444;March 12, 2025 03:10[301];Vandenberg, SLC?4E;11.03.2025;20:10:00;Success;Success 
+445;March 13, 2025 02:35[303];Cape Canaveral, SLC?40;12.03.2025;22:35:00;Success;Success 
+446;March 14, 2025 23:03[304];Kennedy, LC?39A;14.03.2025;19:03:00;Success;Success 
+447;March 15, 2025 06:43[305];Vandenberg, SLC?4E;14.03.2025;23:43:00;Success;Success 
+448;March 15, 2025 11:35[306];Cape Canaveral, SLC?40;15.03.2025;7:35:00;Success;Success 
+449;March 18, 2025 19:57[307];Cape Canaveral, SLC?40;18.03.2025;15:57:00;Success;Success 
+450;March 21, 2025 06:49[308];Vandenberg, SLC?4E;20.03.2025;23:49:00;Success;Success 
+451;March 24, 2025 17:48[309];Cape Canaveral, SLC?40;24.03.2025;13:48:00;Success;Success 
+452;March 26, 2025 22:11[311];Vandenberg, SLC?4E;26.03.2025;15:11:00;Success;Success 
+453;March 31, 2025 19:52[312];Cape Canaveral, SLC?40;31.03.2025;15:52:00;Success;Success 
+454;April 1, 2025 01:46[313];Kennedy, LC?39A;31.03.2025;21:46:00;Success;Success 
+455;April 4, 2025 01:02[316];Vandenberg, SLC?4E;03.04.2025;18:02:00;Success;Success 
+456;April 6, 2025 03:07[317];Cape Canaveral, SLC?40;05.04.2025;23:07:00;Success;Success 
+457;April 7, 2025 23:06[318];Vandenberg, SLC?4E;07.04.2025;16:06:00;Success;Success 
+458;April 12, 2025 12:25[319];Vandenberg, SLC?4E;12.04.2025;5:25:00;Success;Success 
+459;April 13, 2025 00:53[320];Kennedy, LC?39A;12.04.2025;20:53:00;Success;Success 
+460;April 14, 2025 04:00[321];Cape Canaveral, SLC?40;14.04.2025;0:00:00;Success;Success 
+461;April 20, 2025 12:29[322];Vandenberg, SLC?4E;20.04.2025;5:29:00;Success;Success 
+462;April 21, 2025 08:15[323];Kennedy, LC?39A;21.04.2025;4:15:00;Success;Success 
+463;April 22, 2025 00:48[325];Cape Canaveral, SLC?40;21.04.2025;20:48:00;Success;Success 
+464;April 25, 2025 01:52[327];Cape Canaveral, SLC?40;24.04.2025;21:52:00;Success;Success 
+465;April 28, 2025 02:09[328];Cape Canaveral, SLC?40;27.04.2025;22:09:00;Success;Success 
+466;April 28, 2025 20:42[329];Vandenberg, SLC?4E;28.04.2025;13:42:00;Success;Success 
+467;April 29, 2025 02:34[330];Kennedy, LC?39A;28.04.2025;22:34:00;Success;Success 
+468;May 2, 2025 01:51[331];Cape Canaveral, SLC?40;01.05.2025;21:51:00;Success;Success 
+469;May 4, 2025 08:54[332];Kennedy, LC?39A;04.05.2025;4:54:00;Success;Success 
+470;May 7, 2025 01:17[333];Cape Canaveral, SLC?40;06.05.2025;21:17:00;Success;Success 
+471;May 10, 2025 00:19[334];Vandenberg, SLC?4E;09.05.2025;17:19:00;Success;Success 
+472;May 10, 2025 06:28[335];Cape Canaveral, SLC?40;10.05.2025;2:28:00;Success;Success 
+473;May 13, 2025 01:15[337];Vandenberg, SLC?4E;12.05.2025;18:15:00;Success;Success 
+474;May 13, 2025 05:02[338];Kennedy, LC?39A;13.05.2025;1:02:00;Success;Success 
+475;May 14, 2025 16:38[339];Cape Canaveral, SLC?40;14.05.2025;12:38:00;Success;Success 
+476;May 16, 2025 13:43[340];Vandenberg, SLC?4E;16.05.2025;6:43:00;Success;Success 
+477;May 21, 2025 03:19[341];Cape Canaveral, SLC?40;20.05.2025;23:19:00;Success;Success 
+478;May 23, 2025 22:32[342];Vandenberg, SLC?4E;23.05.2025;15:32:00;Success;Success 
+479;May 24, 2025 17:19[343];Cape Canaveral, SLC?40;24.05.2025;13:19:00;Success;Success 
+480;May 27, 2025 16:57[344];Vandenberg, SLC?4E;27.05.2025;9:57:00;Success;Success 
+481;May 28, 2025 13:30[345];Kennedy, LC?39A;28.05.2025;9:30:00;Success;Success 
+482;May 30, 2025 17:37[346];Cape Canaveral, SLC?40;30.05.2025;13:37:00;Success;Success 
+483;May 31, 2025 20:10[347];Vandenberg, SLC?4E;31.05.2025;13:10:00;Success;Success 
+484;June 3, 2025 04:43[348];Cape Canaveral, SLC?40;03.06.2025;0:43:00;Success;Success 
+485;June 4, 2025 23:40[350];Vandenberg, SLC?4E;04.06.2025;16:40:00;Success;Success 
+486;June 7, 2025 04:54[351];Cape Canaveral, SLC?40;07.06.2025;0:54:00;Success;Success 
+487;June 8, 2025 14:20[352];Vandenberg, SLC?4E;08.06.2025;7:20:00;Success;Success 
+488;June 10, 2025 13:05[353];Cape Canaveral, SLC?40;10.06.2025;9:05:00;Success;Success 
+489;June 13, 2025 01:54[354];Vandenberg, SLC?4E;12.06.2025;18:54:00;Success;Success 
+490;June 13, 2025 15:29[355];Cape Canaveral, SLC?40;13.06.2025;11:29:00;Success;Success 
+491;June 17, 2025 03:36[356];Vandenberg, SLC?4E;16.06.2025;20:36:00;Success;Success 
+492;June 18, 2025 05:55[357];Cape Canaveral, SLC?40;18.06.2025;1:55:00;Success;Success 
+493;June 23, 2025 05:58[358];Cape Canaveral, SLC?40;23.06.2025;1:58:00;Success;Success 
+494;June 23, 2025 21:25[359];Vandenberg, SLC?4E;23.06.2025;14:25:00;Success;Success 
+495;June 25, 2025 06:31[360];Kennedy, LC?39A;25.06.2025;2:31:00;Success;Success 
+496;June 25, 2025 19:54[361];Cape Canaveral, SLC?40;25.06.2025;15:54:00;Success;Success 
+497;June 28, 2025 04:26[362];Cape Canaveral, SLC?40;28.06.2025;0:26:00;Success;Success 
+498;June 28, 2025 17:13[362];Vandenberg, SLC?4E;28.06.2025;10:13:00;Success;Success 
+499;July 1, 2025 21:04[363];Kennedy, LC?39A;01.07.2025;17:04:00;Success;Success 
+500;July 2, 2025 06:28[365];Cape Canaveral, SLC?40;02.07.2025;2:28:00;Success;Success 
+501;July 8, 2025 08:21[366];Cape Canaveral, SLC?40;08.07.2025;4:21:00;Success;Success 
+502;July 13, 2025 05:04[367];Cape Canaveral, SLC?40;13.07.2025;1:04:00;Success;Success 
+503;July 16, 2025 02:05[370];Vandenberg, SLC?4E;15.07.2025;19:05:00;Success;Success 
+504;July 16, 2025 06:30[371];Cape Canaveral, SLC?40;16.07.2025;2:30:00;Success;Success 
+505;July 19, 2025 03:52[374];Vandenberg, SLC?4E;18.07.2025;20:52:00;Success;Success 
+506;July 22, 2025 21:12[375];Cape Canaveral, SLC?40;22.07.2025;17:12:00;Success;Success 
+507;July 23, 2025 18:13[376];Vandenberg, SLC?4E;23.07.2025;11:13:00;Success;Success 
+508;July 26, 2025 09:01[377];Cape Canaveral, SLC?40;26.07.2025;5:01:00;Success;Success 
+509;July 27, 2025 04:31[378];Vandenberg, SLC?4E;26.07.2025;21:31:00;Success;Success 
+510;July 30, 2025 03:37[379];Cape Canaveral, SLC?40;29.07.2025;23:37:00;Success;Success 
+511;July 31, 2025 18:35[380];Vandenberg, SLC?4E;31.07.2025;11:35:00;Success;Success 
+512;August 1, 2025 15:43[382];Kennedy, LC?39A;01.08.2025;11:43:00;Success;Success 
+513;August 4, 2025 07:57[384];Cape Canaveral, SLC?40;04.08.2025;3:57:00;Success;Success 
+514;August 11, 2025 12:35[385];Cape Canaveral, SLC?40;11.08.2025;8:35:00;Success;Success 
+515;August 14, 2025 05:05[387];Vandenberg, SLC?4E;13.08.2025;22:05:00;Success;Success 
+516;August 14, 2025 12:29[388];Cape Canaveral, SLC?40;14.08.2025;8:29:00;Success;Success 
+517;August 18, 2025 16:26[390];Vandenberg, SLC?4E;18.08.2025;9:26:00;Success;Success 
+518;August 22, 2025 03:50[391];Kennedy, LC?39A;21.08.2025;23:50:00;Success;Success 
+519;August 22, 2025 17:04[394];Vandenberg, SLC?4E;22.08.2025;10:04:00;Success;Success 
+520;August 24, 2025 06:45[395];Cape Canaveral, SLC?40;24.08.2025;2:45:00;Success;Success 
+521;August 26, 2025 18:53[397];Vandenberg, SLC?4E;26.08.2025;11:53:00;Success;Success 
+522;August 27, 2025 11:10[399];Cape Canaveral, SLC?40;27.08.2025;7:10:00;Success;Success 
+523;August 28, 2025 08:12[400];Kennedy, LC?39A;28.08.2025;4:12:00;Success;Success 
+524;August 30, 2025 04:59[401];Vandenberg, SLC?4E;29.08.2025;21:59:00;Success;Success 
+525;August 31, 2025 11:49[402];Cape Canaveral, SLC?40;31.08.2025;7:49:00;Success;Success 
+526;September 3, 2025 03:51[403];Vandenberg, SLC?4E;02.09.2025;20:51:00;Success;Success 
+527;September 3, 2025 11:56[404];Cape Canaveral, SLC?40;03.09.2025;7:56:00;Success;Success 
+528;September 5, 2025 12:32[406];Kennedy, LC?39A;05.09.2025;8:32:00;Success;Success 
+529;September 6, 2025 18:06[407];Vandenberg, SLC?4E;06.09.2025;11:06:00;Success;Success 
+530;September 10, 2025 14:12[408];Vandenberg, SLC?4E;10.09.2025;7:12:00;Success;Success 
+531;September 12, 2025 01:56[410];Cape Canaveral, SLC?40;11.09.2025;21:56:00;Success;Success 
+532;September 13, 2025 17:55[413];Vandenberg, SLC?4E;13.09.2025;10:55:00;Success;Success 
+533;September 14, 2025 22:11[414];Cape Canaveral, SLC?40;14.09.2025;18:11:00;Success;Success 
+534;September 18, 2025 09:30[416];Cape Canaveral, SLC?40;18.09.2025;5:30:00;Success;Success 
+535;September 19, 2025 16:31[417];Vandenberg, SLC?4E;19.09.2025;9:31:00;Success;Success 
+536;September 21, 2025 10:53[418];Cape Canaveral, SLC?40;21.09.2025;6:53:00;Success;Success 
+537;September 22, 2025 17:38[419];Vandenberg, SLC?4E;22.09.2025;10:38:00;Success;Success 
+538;September 24, 2025 11:30[420];Kennedy, LC?39A;24.09.2025;7:30:00;Success;Success 
+539;September 25, 2025 08:39[422];Cape Canaveral, SLC?40;25.09.2025;4:39:00;Success;Success 
+540;September 26, 2025 04:26[423];Vandenberg, SLC?4E;25.09.2025;21:26:00;Success;Success 
+541;September 29, 2025 02:04[424];Vandenberg, SLC?4E;28.09.2025;19:04:00;Success;Success 
+542;October 3, 2025 14:06[425];Vandenberg, SLC?4E;03.10.2025;7:06:00;Success;Success 
+543;October 7, 2025 06:46[426];Cape Canaveral, SLC?40;07.10.2025;2:46:00;Success;Success 
+544;October 8, 2025 03:54[427];Vandenberg, SLC?4E;07.10.2025;20:54:00;Success;Success 
+545;October 14, 2025 01:58[428];Cape Canaveral, SLC?40;13.10.2025;21:58:00;Success;Success 
+546;October 15, 2025 23:06[429];Vandenberg, SLC?4E;15.10.2025;16:06:00;Success;Success 
+547;October 16, 2025 09:27[431];Cape Canaveral, SLC?40;16.10.2025;5:27:00;Success;Success 
+548;October 19, 2025 17:39[432];Cape Canaveral, SLC?40;19.10.2025;13:39:00;Success;Success 
+549;October 19, 2025 19:24[433];Vandenberg, SLC?4E;19.10.2025;12:24:00;Success;Success 
+550;October 22, 2025 14:16[434];Vandenberg, SLC?4E;22.10.2025;7:16:00;Success;Success 
+551;October 24, 2025 01:30[435];Cape Canaveral, SLC?40;23.10.2025;21:30:00;Success;No attempt
+552;October 25, 2025 14:20[436];Vandenberg, SLC?4E;25.10.2025;7:20:00;Success;Success 
+553;October 26, 2025 15:00[437];Cape Canaveral, SLC?40;26.10.2025;11:00:00;Success;Success 
+554;October 28, 2025 00:43[438];Vandenberg, SLC?4E;27.10.2025;17:43:00;Success;Success 
+555;October 29, 2025 16:35[440];Cape Canaveral, SLC?40;29.10.2025;12:35:00;Success;Success 
+556;October 31, 2025 20:41[441];Vandenberg, SLC?4E;31.10.2025;13:41:00;Success;Success 
+557;November 2, 2025 05:09[442];Cape Canaveral, SLC?40;02.11.2025;1:09:00;Success;Success 
+558;November 6, 2025 01:31[443];Cape Canaveral, SLC?40;05.11.2025;20:31:00;Success;Success 
+559;November 6, 2025 21:13[444];Vandenberg, SLC?4E;06.11.2025;13:13:00;Success;Success 
+560;November 9, 2025 08:10[445];Kennedy, LC?39A;09.11.2025;3:10:00;Success;Success 
+561;November 11, 2025 03:21[446];Cape Canaveral, SLC?40;10.11.2025;22:21:00;Success;Success 
+562;November 15, 2025 03:08[447];Kennedy, LC?39A;14.11.2025;22:08:00;Success;Success 
+563;November 15, 2025 06:44[448];Cape Canaveral, SLC?40;15.11.2025;1:44:00;Success;Success 
+564;November 17, 2025 05:21[449];Vandenberg, SLC?4E;16.11.2025;21:21:00;Success;Success 
+565;November 19, 2025 00:12[452];Cape Canaveral, SLC?40;18.11.2025;19:12:00;Success;Success 
+566;November 21, 2025 03:39[453];Kennedy, LC?39A;20.11.2025;22:39:00;Success;Success 
+567;November 22, 2025 07:53[454];Cape Canaveral, SLC?40;22.11.2025;2:53:00;Success;Success 
+568;November 23, 2025 08:48[455];Vandenberg, SLC?4E;23.11.2025;0:48:00;Success;Success 
+569;November 28, 2025 18:44[456];Vandenberg, SLC?4E;28.11.2025;10:44:00;Success;Success 
+570;December 1, 2025 07:44[457];Kennedy, LC?39A;01.12.2025;2:44:00;Success;Success 
+571;December 2, 2025 05:28[458];Vandenberg, SLC?4E;01.12.2025;21:28:00;Success;Success 
+572;December 2, 2025 22:18[459];Cape Canaveral, SLC?40;02.12.2025;17:18:00;Success;Success 
+573;December 4, 2025 20:42[460];Vandenberg, SLC?4E;04.12.2025;12:42:00;Success;Success 
+574;December 7, 2025 17:58[461];Vandenberg, SLC?4E;07.12.2025;9:58:00;Success;Success 
+575;December 8, 2025 22:26[462];Kennedy, LC?39A;08.12.2025;17:26:00;Success;Success 
+576;December 9, 2025 19:16[463];Cape Canaveral, SLC?40;09.12.2025;14:16:00;Success;Success 
+577;December 10, 2025 11:40[464];Vandenberg, SLC?4E;10.12.2025;3:40:00;Success;Success 
+578;December 11, 2025 22:01[465];Cape Canaveral, SLC?40;11.12.2025;17:01:00;Success;Success 
+579;December 14, 2025 05:49[466];Vandenberg, SLC?4E;13.12.2025;21:49:00;Success;Success 
+580;December 15, 2025 05:25[467];Cape Canaveral, SLC?40;15.12.2025;0:25:00;Success;Success 
+581;December 17, 2025 13:42[468];Kennedy, LC?39A;17.12.2025;8:42:00;Success;Success 
+582;December 17, 2025 15:27[469];Vandenberg, SLC?4E;17.12.2025;7:27:00;Success;Success 
