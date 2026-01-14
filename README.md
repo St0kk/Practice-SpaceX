@@ -47,10 +47,10 @@ Starship является новой ракетой, ведь запускает
 
 
 ## Анализ по площадкам запуска
->Launches_on_time_rockets_and_launchpads.png
->Launchpads.png
->Statistics.png
->SpaceX_Launches_FIXED_2006-2025.csv
+>Launches_on_time_rockets_and_launchpads.png  
+>Launchpads.png  
+>Statistics.png  
+>SpaceX_Launches_FIXED_2006-2025.csv  
 
 
 ### Launch Complex 39A
